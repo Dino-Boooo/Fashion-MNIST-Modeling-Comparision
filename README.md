@@ -14,6 +14,7 @@ We use the FashionMNIST dataset, which contains:
 - 60,000 training images and 10,000 test images
 - 10 clothing categories (e.g., T-shirt, pants, dress, etc.)
 - 28×28 grayscale images
+  
 More details: [FashionMNIST GitHub](https://github.com/zalandoresearch/fashion-mnist)
 
 ## Methodology
