@@ -22,7 +22,7 @@ More details: [FashionMNIST GitHub](https://github.com/zalandoresearch/fashion-m
 - Normalization & Standardization
 - Train/Test Split (80/20)
 - Data Augmentation (for CNNs)
-- 
+  
 ### 2. Exploratory Data Analysis (EDA)
 - Class distribution visualization
 - Example images from each class
@@ -60,5 +60,5 @@ More details: [FashionMNIST GitHub](https://github.com/zalandoresearch/fashion-m
 - Part of data to be used for each iteration: 0.8
 - Early-stopping round: 5
 
-## Future Work
-Use hyperparameter tunning techniques such as GridSearch or RandomSearch.
+## Conclusion
+CNNs achieved 3.35% higher accuracy than LightGBM, making them ideal for image classification tasks requiring intricate pattern recognition. However, LightGBM was 730 seconds faster, making it more suitable for real-time applications like inventory updates. Future work could explore hybrid models that leverage the strengths of both approaches.
