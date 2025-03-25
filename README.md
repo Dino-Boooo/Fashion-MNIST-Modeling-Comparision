@@ -8,17 +8,17 @@ Checkout our project post on Medium: https://medium.com/@emilyjyc/comparison-of-
 ## Basic Parameters Configuration
 
 ### Deep CNN (Pytorch)
-Criterion: CrossEntropy
-Optimizer: Adam
-Learning rate: 0.001
-Early-stopping rounds: 5
+- Criterion: CrossEntropy
+- Optimizer: Adam
+- Learning rate: 0.001
+- Early-stopping rounds: 5
 
 ### LightGBM
-Number of leaves in full tree: 31
-Learning rate: 0.05
-Part of feature to be used for each iteration: 0.9
-Part of data to be used for each iteration: 0.8
-Early-stopping round: 5
+- Number of leaves in full tree: 31
+- Learning rate: 0.05
+- Part of feature to be used for each iteration: 0.9
+- Part of data to be used for each iteration: 0.8
+- Early-stopping round: 5
 
 ## Future Work
 Use hyperparameter tunning techniques such as GridSearch or RandomSearch.
