@@ -1,4 +1,4 @@
-# Fashion-MNIST-Modeling-Comparision
+# Fashion-MNIST-Modeling-Comparison
 ## Overview
 
 This project is part of the TAMU ECEN 758 Data Mining and Analysis course. The goal is to classify articles of clothing using the FashionMNIST dataset. This study implements and compares the performance of:
